@@ -6,7 +6,7 @@ let personName5 = "Asharib";
 
 let message2 = `Hello ${personName5}, would you like to learn some typescript today?`;
 
-console.log(message);  //this shows person name and print a message 
+console.log(message2);  //this shows person name and print a message 
 
 
 
